@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 requests
-pydantic
+pymupdf
 sentence-transformers
-PyMuPDF
 faiss-cpu
+numpy
